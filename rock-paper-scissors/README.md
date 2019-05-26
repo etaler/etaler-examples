@@ -1,4 +1,4 @@
-# rock-paper-scissorsd
+# rock-paper-scissors
 HTM vs RNN playing Rock Paper Scirrors
 
 ## Dependencies
