@@ -15,7 +15,7 @@
 #include <Etaler/Backends/OpenCLBackend.hpp>
 #include <Etaler/Algorithms/TemporalMemory.hpp>
 #include <Etaler/Encoders/Category.hpp>
-#include <Etaler/XtensorInterop.hpp>
+#include <Etaler/Interop/Xtensor.hpp>
 
 //parameters for RNNPlayer
 const int RNN_DATA_PER_EPOCH = 3;
